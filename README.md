@@ -12,7 +12,8 @@ Projeto de um sistema web para gerenciar tarefas.
 
 ## Rodar o projeto
 
-Requisitos   [Java 17](https://www.openlogic.com/openjdk-downloads) e [Maven 3.9](https://maven.apache.org/download.cgi)
+Requisitos ter o [Java 17](https://www.openlogic.com/openjdk-downloads) e [Maven 3.9](https://maven.apache.org/download.cgi)  
+e ter uma instacia do Postgres rodando, adicionar a url e as credenciais para acesso ao banco de dados no arquivo [database.properties](src/main/resources/database.properties)  
 
 Arir o diretório do projeto e rodar os comandos:
 
